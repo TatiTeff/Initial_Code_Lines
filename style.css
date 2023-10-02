@@ -1,0 +1,76 @@
+@import url('https://fonts.cdnfonts.com/css/zipper-2');
+/*font-family: 'Zipper', sans-serif;*/
+      
+@import url('https://fonts.googleapis.com/css2?family=Nunito+Sans&display=swap');
+/*font-family: 'Nunito Sans', sans-serif;*/
+
+@import url('https://fonts.googleapis.com/css2?family=Raleway&display=swap');
+/*font-family: 'Raleway', sans-serif;*/
+
+@import url('https://fonts.googleapis.com/css2?family=Roboto&display=swap');
+/*font-family: 'Roboto', sans-serif;*/
+
+
+[href]{
+    color:rgb(218, 183, 107);
+    font-family: 'Nunito Sans', sans-serif
+}
+
+.section1{
+    background-color: rgb(245, 243, 220);
+}
+.section2{
+    background-color: beige;
+}
+.section3{
+    background-color: rgba(245, 245, 220, 0.918);
+}
+
+h1{
+    color:rgb(218, 183, 107);
+    text-align: center;
+    font-family: 'Zipper', sans-serif;
+    font-size: 40px;
+    font-weight: bolder;
+}
+
+h2{
+    color:rgb(218, 183, 107);
+    font-family: 'Raleway', sans-serif;
+    font-weight: bolder;
+}
+
+h3{
+    color:rgb(218, 183, 107);
+    font-family: 'Roboto', sans-serif;
+    font-weight: bolder;
+}
+
+.pa1{
+    font-family: 'Nunito Sans', sans-serif;
+    font-weight: 400;
+    font-size: 16px;
+}
+
+.pa2{
+    font-family: 'Raleway', sans-serif;
+    font-weight: 400;
+    font-size: 16px;
+}
+
+.pa3{
+    font-family: 'Roboto', sans-serif;
+    font-weight: 400;
+    font-size: 16px;
+}
+
+.pa4{
+    font-family: 'Nunito Sans', sans-serif;
+    font-weight: 400;
+    font-size: 16px;
+}
+
+.fa-brands {
+    color:rgb(218, 183, 107);
+    font-size: 50px; 
+}
